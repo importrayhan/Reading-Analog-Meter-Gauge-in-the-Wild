@@ -10,4 +10,6 @@ The model will soon be uploaded in this repository. At present, i am working on 
 If you want to collaborate or have a position for me, please leave a message at : md.rayhan@g.bracu.ac.bd
 
 ## Thank you for your interest.
+### See the video on YouTube :point_down:
+___ 
 [<img src="thumb.png" alt="J">](https://www.youtube.com/watch?v=sIHuw8KfMa8 "Video on YouTube")
